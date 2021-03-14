@@ -1,0 +1,13 @@
+[
+    {
+        "id": "fuck",
+        "name": "Fuck you",
+        "response": "Fuck you, :name",
+        "fields": [
+            {
+                "field": "name",
+                "name": "Name"
+            }
+        ]
+    }
+]
